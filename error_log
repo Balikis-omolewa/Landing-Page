@@ -1,0 +1,16 @@
+[10-Feb-2023 12:19:33 Africa/Lagos] PHP Warning:  Undefined variable $name in /home/fastrasu/public_html/flp/contact.php on line 29
+[10-Feb-2023 12:19:33 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/fastrasu/public_html/flp/contact.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/fastrasu/public_html/flp/contact.php on line 35
+[13-Feb-2023 15:26:17 Africa/Lagos] PHP Parse error:  syntax error, unexpected token "new" in /home/fastrasu/public_html/flp/index.php on line 30
+[13-Feb-2023 15:26:25 Africa/Lagos] PHP Parse error:  syntax error, unexpected token "new" in /home/fastrasu/public_html/flp/index.php on line 30
+[13-Feb-2023 15:26:34 Africa/Lagos] PHP Parse error:  syntax error, unexpected token "new" in /home/fastrasu/public_html/flp/index.php on line 30
+[13-Feb-2023 15:26:42 Africa/Lagos] PHP Parse error:  syntax error, unexpected token "new" in /home/fastrasu/public_html/flp/index.php on line 30
+[13-Feb-2023 15:30:22 Africa/Lagos] PHP Parse error:  syntax error, unexpected token "new" in /home/fastrasu/public_html/flp/index.php on line 30
+[13-Feb-2023 15:30:25 Africa/Lagos] PHP Parse error:  syntax error, unexpected token "new" in /home/fastrasu/public_html/flp/index.php on line 30
+[13-Feb-2023 15:30:27 Africa/Lagos] PHP Parse error:  syntax error, unexpected token "new" in /home/fastrasu/public_html/flp/index.php on line 30
+[13-Feb-2023 15:30:28 Africa/Lagos] PHP Parse error:  syntax error, unexpected token "new" in /home/fastrasu/public_html/flp/index.php on line 30
+[13-Feb-2023 15:30:29 Africa/Lagos] PHP Parse error:  syntax error, unexpected token "new" in /home/fastrasu/public_html/flp/index.php on line 30
+[13-Feb-2023 15:31:17 Africa/Lagos] PHP Parse error:  syntax error, unexpected token "new" in /home/fastrasu/public_html/flp/index.php on line 30
+[13-Feb-2023 15:31:27 Africa/Lagos] PHP Parse error:  syntax error, unexpected token "new" in /home/fastrasu/public_html/flp/index.php on line 30
